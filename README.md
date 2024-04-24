@@ -97,10 +97,10 @@
             <td>
                 <ul>
                     <li>
-                        <a href="">Trabajo Pr&aacute;ctico 01
+                        <a href="./TP_01/">Trabajo Pr&aacute;ctico 01
                     </li>
 			              <li>
-                        <a href="">Trabajo Pr&aacute;ctico 02
+                        <a href="./TP_02/">Trabajo Pr&aacute;ctico 02
                     </li>
                     <li>
                         <a href="">Trabajo Pr&aacute;ctico 03
